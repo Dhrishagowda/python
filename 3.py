@@ -30,7 +30,7 @@ numbers =[4,7,8,5]
 print(calculate_sum(numbers))"""
 
 
-def find_max(number):
+"""def find_max(number):
     largest=number[0]
     for num in number:
         if num>largest:
@@ -38,5 +38,7 @@ def find_max(number):
     return largest
 
 number=[2,4,8,19,88]
-print(find_max(number))
+print(find_max(number))"""
+
+
 
