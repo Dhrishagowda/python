@@ -2,7 +2,9 @@
 print(max(numbers))
 print(min(numbers))
 print(sum(numbers))"""
-even_numbers=[]
+
+
+"""even_numbers=[]
 odd_numbers=[]
 numbers=[2,6,3,8,4,9]
 for num in numbers:
@@ -11,4 +13,4 @@ for num in numbers:
     else:
         odd_numbers.append(num)
 print('even numbers:',even_numbers)
-print('odd numbers:',odd_numbers)
+print('odd numbers:',odd_numbers)"""
